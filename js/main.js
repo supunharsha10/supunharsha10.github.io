@@ -14,7 +14,7 @@ $(document).ready(function() {
 
     $(function() {
         element.typed({
-            strings: ["UI/UX Designer.", "FreeLancer.", "Developer."],
+            strings: ["UI/UX Designer.", "Logo Designer", "Graphic Designer.", "Developer.", "FreeLancer."],
             loop: true,
             typeSpeed: 90
         });
