@@ -18,6 +18,7 @@ Table of content
 
 /*---------- 1. Default css starts ------------*/
 
+
 html,
 body {
     height: 100%;
@@ -920,7 +921,6 @@ p.heading-text {
 }
 
 .social-btns {
-    height: 90px;
     margin: auto;
     font-size: 0;
     text-align: center;
@@ -928,7 +928,6 @@ p.heading-text {
     top: 0;
     bottom: 0;
     left: 0;
-    right: 0;
 }
 
 .social-btns .btn {
@@ -971,6 +970,7 @@ p.heading-text {
     color: #ffffff;
     padding: 30px 0;
 }
+
 
 
 /*--------------- Footer area ends -------------*/
